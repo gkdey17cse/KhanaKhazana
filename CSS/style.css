@@ -1,0 +1,8 @@
+.container-section{
+    background-color: var(--primary-color);
+    padding: 2.5rem 0;
+}
+.container-section p{
+    color: var(--white--color);
+    text-transform: lowercase;
+}
